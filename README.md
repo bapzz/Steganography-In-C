@@ -4,6 +4,13 @@ Image Steganography In C.
 Steganography Is The Process To Hide Text Files In A Image Without Altering The Original Image.
 The Text Is Hidden In .BMP Image Files.
 
+# FILES
+
+Stegano_header.h - It Has All The Program Function Prototypes.
+Steganography.c - Is The Main Function Of The Program.
+Encode.c - Encoding Function
+Decode.c - Decoding Function
+
 FOR EXECUTION OF THE PROGRAM , FOLLOW THE STEPS :-
 
 ~$ gcc Steganography.c
