@@ -1,4 +1,4 @@
-# Steganography
+# Steganography In C
 Image Steganography In C.
 
 Steganography Is The Process To Hide Text Files In A Image Without Altering The Original Image.
