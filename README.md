@@ -14,7 +14,7 @@ Encode.c - Encoding Function
 
 Decode.c - Decoding Function
 
-FOR EXECUTION OF THE PROGRAM , FOLLOW THE STEPS :-
+# FOR EXECUTION OF THE PROGRAM , FOLLOW THE STEPS :-
 
 ~$ gcc Steganography.c
 
@@ -30,7 +30,7 @@ After Compiling The GCC will Create A Output File i.e "a.out".
 
 // text_output.txt Is To Store The Secret Text Present In Image.
 
-*** INDEX ***
+# INDEX
 
 	-E = ENCODING
 	-D = DECODING
