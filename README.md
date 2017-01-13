@@ -12,14 +12,16 @@ FOR EXECUTION OF THE PROGRAM , FOLLOW THE STEPS :-
 
 *** DECODING ***
 
-~$ ./a.out -D -o output.bmp
+~$ ./a.out -D -i output.bmp -o text_output.txt
+
+// text_output.txt Is To Store The Secret Text Present In Image.
 
 *** INDEX ***
 
 	-E = ENCODING
 	-D = DECODING
-	-i = Input Source BMP Image
+	-i = Input Source BMP Image / Output Image
 	-s = Secret Text File
-	-o = Output BMP Image
+	-o = Output BMP Image / Output Text File
   
   ************ THANK YOU *****************
