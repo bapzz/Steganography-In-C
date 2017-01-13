@@ -20,11 +20,11 @@ Decode.c - Decoding Function
 
 After Compiling The GCC will Create A Output File i.e "a.out".
 
-*** ENCODING ***
+# ENCODING
 
 ~$ ./a.out -E -i input_image.bmp -s secret_text.txt -o output_image.bmp
 
-*** DECODING ***
+# DECODING
 
 ~$ ./a.out -D -i output.bmp -o text_output.txt
 
