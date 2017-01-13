@@ -6,6 +6,10 @@ The Text Is Hidden In .BMP Image Files.
 
 FOR EXECUTION OF THE PROGRAM , FOLLOW THE STEPS :-
 
+~$ gcc Steganography.c
+
+After Compiling The GCC will Create A Output File i.e "a.out".
+
 *** ENCODING ***
 
 ~$ ./a.out -E -i input_image.bmp -s secret_text.txt -o output_image.bmp
@@ -25,3 +29,5 @@ FOR EXECUTION OF THE PROGRAM , FOLLOW THE STEPS :-
 	-o = Output BMP Image / Output Text File
   
   ************ THANK YOU *****************
+  
+  # Biswajeet Sahoo.
