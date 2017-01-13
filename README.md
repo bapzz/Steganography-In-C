@@ -8,16 +8,16 @@ FOR EXECUTION OF THE PROGRAM , FOLLOW THE STEPS :-
 
 *** ENCODING ***
 
-~$ ./a.out -E -i <input_image.bmp> -s <secret_text.txt> -o <output_image.bmp>
+~$ ./a.out -E -i input_image.bmp -s secret_text.txt -o output_image.bmp
 
 *** DECODING ***
 
-~$ ./a.out -D -o <output.bmp>
+~$ ./a.out -D -o output.bmp
 
 *** INDEX ***
 
 	-E = ENCODING
-  -D = DECODING
+	-D = DECODING
 	-i = Input Source BMP Image
 	-s = Secret Text File
 	-o = Output BMP Image
